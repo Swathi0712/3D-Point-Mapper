@@ -4,7 +4,7 @@ A real-time 3D spatial mapping system using Arduino, ESP8266, ultrasonic sensors
 
 ## Overview
 
-[Brief description of the project]
+The 3D Point Mapper is a low-cost, open-source, real-time 3D spatial mapping system. It uses a combination of ultrasonic sensors and a gyroscope to create a 3D point cloud of an object or environment. The device is battery-powered and transmits the data wirelessly to a web server for real-time visualization and export.
 
 ## Features
 
